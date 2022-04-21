@@ -1,4 +1,3 @@
 _program = "pangolin_data"
-__version__ = "1.6"
+__version__ = "v1.6"
 
-from pangolin_data import *
