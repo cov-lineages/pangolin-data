@@ -1,3 +1,3 @@
 _program = "pangolin_data"
-__version__ = "1.40"
+__version__ = "1.41"
 
